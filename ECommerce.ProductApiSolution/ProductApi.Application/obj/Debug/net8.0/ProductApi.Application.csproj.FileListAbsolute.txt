@@ -1,0 +1,17 @@
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.deps.json
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.dll
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.pdb
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfoInputs.cache
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfo.cs
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.dll
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\refint\ProductApi.Application.dll
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.pdb
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ref\ProductApi.Application.dll
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ECommerce.SharedLibrary.dll
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.dll
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ECommerce.SharedLibrary.pdb
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.pdb
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.AssemblyReference.cache
+C:\Users\zoe_1\source\repos\MicroserviceEcommerce2026\ECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductA.E443A747.Up2Date
