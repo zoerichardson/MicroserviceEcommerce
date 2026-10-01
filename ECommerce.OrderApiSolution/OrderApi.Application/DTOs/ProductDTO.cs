@@ -1,0 +1,11 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace OrderApi.Application.DTOs
+{
+    public record class ProductDTO(
+        int Id,
+        [Required] string Name,
+         [Required, DataType(DataType.Currency)] decimal Price,
+        [Required, Range(1, int.MaxValue)] int Quantity
+        );
+}
